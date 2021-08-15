@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hila  <img src="profile.png" align="center" height="35" width="35"/></h1>
+<h1 align="left">Hi 👋, I'm Hila  <img src="profile.png" align="center" height="40" width="40"/></h1>
 <h3 align="left">A Fullstack developer from the bay area, California</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/hcs847/react-portfolio](https://github.com/hcs847/react-portfolio)
